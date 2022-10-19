@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(17, 1, 1);
+    margin: auto;
+}
+h1{ color: rgb(192, 13, 237);
+    text-align: center;
+    position: relative;
+    right: 40%;
+}
+h2{
+    color: rgb(252, 44, 207);
+}
+
+main{
+    background-origin: border-box;
+    color: aliceblue;
+    padding: 0%;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 40%; 
+    font-size: 20px; 
+}
+.chave{
+    color: rgb(204, 108, 242);
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
